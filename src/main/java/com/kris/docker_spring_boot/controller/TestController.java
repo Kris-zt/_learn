@@ -8,6 +8,6 @@ public class TestController {
 
     @RequestMapping("/test")
     public String show() {
-        return "===================>>>Hello World<<<===============";
+        return ">>>>>>>>>>>>>>>>>Hello World<<<<<<<<<<<<<<<<";
     }
 }
