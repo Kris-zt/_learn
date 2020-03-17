@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.kris</groupId>
-    <artifactId>spring-boot</artifactId>
+    <artifactId>learn</artifactId>
     <version>1.0</version>
     <parent>
         <groupId>org.springframework.boot</groupId>
