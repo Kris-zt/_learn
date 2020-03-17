@@ -1,4 +1,4 @@
-package com.kris.docker_spring_boot.controller;
+package com.kris.learn.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
