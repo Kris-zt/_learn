@@ -1,4 +1,4 @@
-package com.kris.docker_spring_boot;
+package com.kris.learn;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
